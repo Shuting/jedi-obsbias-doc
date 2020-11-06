@@ -7,7 +7,7 @@ Genral form
   .. math::
       :label: costf3
 
-      J(x) = \frac{1}{2} ( \vec{x}- \vec{x}_b ) )^T \textbf{B}^{-1} ( \vec{x} - \vec{x}_b ) +
+      J(x) = \frac{1}{2} ( \vec{x}- \vec{x}_b  )^T \textbf{B}^{-1} ( \vec{x} - \vec{x}_b ) +
              \frac{1}{2} ( H(\vec{x}) - \vec{y} )^T \textbf{R}^{-1} ( H(\vec{x}) -\vec{y} )
 
   define :math:`\vec{\delta{x}} = \vec{x} -\vec{x}_b`, called *Increment*
